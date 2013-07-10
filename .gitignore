@@ -1,5 +1,5 @@
 *.class
-
+library/.classpath
 # Package Files #
 *.dex
 *.war
