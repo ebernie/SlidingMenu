@@ -6,7 +6,6 @@ import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
-import com.slidingmenu.lib.SlidingMenu;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 
 public class SlidingFragmentActivity extends SherlockFragmentActivity implements SlidingActivityBase {

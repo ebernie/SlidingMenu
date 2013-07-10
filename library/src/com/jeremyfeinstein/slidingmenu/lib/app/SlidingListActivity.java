@@ -1,6 +1,5 @@
 package com.jeremyfeinstein.slidingmenu.lib.app;
 
-import android.app.ListActivity;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
@@ -8,7 +7,6 @@ import android.view.ViewGroup.LayoutParams;
 import android.widget.ListView;
 
 import com.actionbarsherlock.app.SherlockListActivity;
-import com.slidingmenu.lib.SlidingMenu;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 
 public class SlidingListActivity extends SherlockListActivity implements SlidingActivityBase {

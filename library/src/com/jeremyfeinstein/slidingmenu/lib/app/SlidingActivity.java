@@ -1,13 +1,11 @@
 package com.jeremyfeinstein.slidingmenu.lib.app;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 
 import com.actionbarsherlock.app.SherlockActivity;
-import com.slidingmenu.lib.SlidingMenu;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 
 public class SlidingActivity extends SherlockActivity implements SlidingActivityBase {
